@@ -3,11 +3,11 @@
 ## Fullstack web developer
 
 - 👨‍💻 Full stack developer with 2 years of MERN Stack development experience
-- 🔩 Working on [https://mealsprint.vercel.app]
+- 🔩 Working on https://mealsprint.vercel.app
 - 💬 Ask me about: JavaScript, React, Node.js, MongoDB, and Express
 - 🌱 Currently learning Next.js and typescript
-- 📫 Reach me at: [dauntlesspaulwit@gmail.com]
-- 💼 check out my portfolio [https://dauntless-dev.vercel.app]
+- 📫 Reach me at: dauntlesspaulwit@gmail.com
+- 💼 check out my portfolio https://dauntless-dev.vercel.app
 - 🏡 currently based in Lagos, Nigeria
 - 📩 I am open to frontend and backend roles, and collaborative projects
   
