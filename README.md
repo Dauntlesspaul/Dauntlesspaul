@@ -2,7 +2,7 @@
 
 ## Fullstack web developer
 
-- 👨‍💻 Full stack developer with 2 years of MERN Stack development experience
+- 👨‍💻 Full stack developer with 3 years of MERN Stack development experience
 - 🔩 Working on https://mealsprint.vercel.app
 - 💬 Ask me about: JavaScript, React, Node.js, MongoDB, and Express
 - 🌱 Currently learning Next.js and typescript
