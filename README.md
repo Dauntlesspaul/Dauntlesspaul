@@ -4,7 +4,7 @@
 
 - 👨‍💻 Full stack developer with 3 years of Full Stack (MERN) development experience
 - 🔩 Working on https://www.moposhluxury.com
-- 💬 Ask me about: JavaScript, React,Next.js, Node.js, MongoDB,Next.js and typescript, and Express
+- 💬 Ask me about: JavaScript, typescript, React, Next.js, Node.js, MongoDB, and Express
 - 📫 Reach me at: dauntlesspaulwit@gmail.com
 - 💼 check out my portfolio https://dauntless-dev.vercel.app
 - 🏡 currently based in Lagos, Nigeria
