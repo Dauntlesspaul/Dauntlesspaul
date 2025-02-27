@@ -3,9 +3,8 @@
 ## Fullstack web developer
 
 - 👨‍💻 Full stack developer with 3 years of MERN Stack development experience
-- 🔩 Working on https://mealsprint.vercel.app
-- 💬 Ask me about: JavaScript, React, Node.js, MongoDB, and Express
-- 🌱 Currently learning Next.js and typescript
+- 🔩 Working on https://www.moposhluxury.com
+- 💬 Ask me about: JavaScript, React,Next.js, Node.js, MongoDB,Next.js and typescript, and Express
 - 📫 Reach me at: dauntlesspaulwit@gmail.com
 - 💼 check out my portfolio https://dauntless-dev.vercel.app
 - 🏡 currently based in Lagos, Nigeria
@@ -18,6 +17,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
