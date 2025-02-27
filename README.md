@@ -2,7 +2,7 @@
 
 ## Fullstack web developer
 
-- 👨‍💻 Full stack developer with 3 years of MERN Stack development experience
+- 👨‍💻 Full stack developer with 3 years of Full Stack (MERN) development experience
 - 🔩 Working on https://www.moposhluxury.com
 - 💬 Ask me about: JavaScript, React,Next.js, Node.js, MongoDB,Next.js and typescript, and Express
 - 📫 Reach me at: dauntlesspaulwit@gmail.com
@@ -26,7 +26,7 @@
 
 ## Social 
 
-<a href="https://twitter.com/WitsPaul" target="_blank"><img src="https://img.icons8.com/material-outlined/40/000000/github.png"/></a>
+<a href="https://github.com/Dauntlesspaul" target="_blank"><img src="https://img.icons8.com/material-outlined/40/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/oladipupo-paul" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin.png"/></a>
 <a href="https://twitter.com/WitsPaul" target="_blank"><img src="https://img.icons8.com/ios-filled/33/000000/x.png" alt="X logo"/></a>
 
