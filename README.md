@@ -3,7 +3,7 @@
 ## Fullstack web developer
 
 - 👨‍💻 Full stack developer with 4 years of Full Stack development experience
-- 🔩 Building with https://www.flowvahub.com
+- 🔩 Building with https://www.apartey.com
 - 💬 Ask me about: JavaScript, typescript, React, Next.js, Node.js, MongoDB, and Express
 - 📫 Reach me at: dauntlesspaulwit@gmail.com
 - 💼 check out my portfolio https://dauntless-dev.vercel.app
